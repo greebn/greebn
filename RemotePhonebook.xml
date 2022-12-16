@@ -76,6 +76,9 @@
   <Menu Name="ООО ПКФ &quot;Планар&quot;">
     <Unit Name="Никулин Антон Анатольевич" Phone1="8101" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
+  <Menu Name="НПК &quot;ТАИР&quot;">
+    <Unit Name="Синогин Максим Валерьевич" Phone1="8502" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
   <Menu Name="ООО &quot;Планар СПб&quot;">
     <Unit Name="Сучков Евгений Сергеевич" Phone1="8201" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Хомутов Александр Сергеевич" Phone1="8210" Phone2="" Phone3="" default_photo="Resource:"/>
