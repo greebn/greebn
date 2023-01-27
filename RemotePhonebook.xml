@@ -43,7 +43,7 @@
     <Unit Name="Кропотов Дмитрий Владимирович" Phone1="6651" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Давыдов Евгений Владимирович" Phone1="6608" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Клименков Дмитрий Александрович" Phone1="6602" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Максим Сергеевич Саратовцев" Phone1="0" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Саратовцев Максим Сергеевич " Phone1="0" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Пудовкин Валерий Вячеславович" Phone1="1701" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Потеряев Дмитрий Иванович" Phone1="6701" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Колтунова Ирина Владимировна" Phone1="1004" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -52,6 +52,13 @@
     <Unit Name="Мещанова Галина Юрьевна" Phone1="5018" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Чирьев Максим Григорьевич" Phone1="5020" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Ногина Лариса Александровна" Phone1="5011" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Иващенко Игорь Анатольевич" Phone1="5420" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Безбородов Александр Витальевич" Phone1="1015" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Сазонов Николай Иванович" Phone1="1005" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Митяев Андрей Николаевич" Phone1="5407" Phone2="79020250072" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Конорев Дмитрий Андреевич" Phone1="1002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Емец Вадим Николаевич" Phone1="5102" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Матушкин Родион Андреевич" Phone1="5103" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Билалов Евгений Владимирович" Phone1="9002" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Митькин Михаил Федорович" Phone1="5021" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Сурнов Сергей Борисович" Phone1="5012" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -84,15 +91,23 @@
     <Unit Name="Чечель Егор Павлович" Phone1="5411" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Шефер Александр Олегович" Phone1="5413" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Щербинин Виктор Витальевич" Phone1="5414" Phone2="" Phone3="" default_photo="Resource:"/>
-  </Menu>
-  <Menu Name="ООО фирма &quot;СВИП&quot;">
-    <Unit Name="Иващенко Игорь Анатольевич" Phone1="5420" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Безбородов Александр Витальевич" Phone1="1015" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Сазонов Николай Иванович" Phone1="1005" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Митяев Андрей Николаевич" Phone1="5407" Phone2="79020250072" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Конорев Дмитрий Андреевич" Phone1="1002" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Емец Вадим Николаевич" Phone1="5102" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Матушкин Родион Андреевич" Phone1="5103" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Конорева Надежда Владимировна" Phone1="5450" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Хакимова Лилия Закиржановна" Phone1="6515" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Павленко Ирина Юрьевна" Phone1="6362" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Малыхина Ирина Петровна" Phone1="6357" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Участок полимерно-порошковых покрытий" Phone1="6357" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Шумакова Елена Юрьевна" Phone1="1050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Кениг Виолетта Андреевна" Phone1="1052" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Хиров Владимир Юрьевич" Phone1="6281" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Пургина Анна Васильевна" Phone1="6283" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Усманов Рабис Рауфович" Phone1="6244" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Гредина Валерия Алексеевна" Phone1="5080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Романова Марина Дмитриевна" Phone1="5060" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ерофеев Иван Сергеевич" Phone1="5415" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Москвичева Наталья Викторовна" Phone1="6502" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Рыжов Владимир Игоревич" Phone1="1009" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Швецов Аркадий Владимирович" Phone1="6171" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Кузнецова Елена Александровна" Phone1="5081" Phone2="" Phone3="" default_photo="Resource:"/>
   </Menu>
   <Menu Name="ООО ПКФ &quot;Планар&quot;">
     <Unit Name="Никулин Антон Анатольевич" Phone1="8101" Phone2="" Phone3="" default_photo="Resource:"/>
@@ -103,7 +118,7 @@
   <Menu Name="ООО &quot;Планар СПб&quot;">
     <Unit Name="Сучков Евгений Сергеевич" Phone1="8201" Phone2="" Phone3="" default_photo="Resource:"/>
     <Unit Name="Хомутов Александр Сергеевич" Phone1="8210" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Тайчинова Олеся Андреевна" Phone1="8202" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Тайчинова Олеся Андреевна" Phone1="8202" Phone2="" Phone3="" default_photo="Resource:"/>  
   </Menu>
   <Menu Name="ООО &quot;ПЛАНАР-Проект&quot;">
     <Unit Name="Афанасьев Максим Валерьевич" Phone1="8001" Phone2="" Phone3="" default_photo="Resource:"/>
