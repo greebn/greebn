@@ -1,135 +1,704 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneBook>
-  <Title>Yealink</Title>
-  <Menu Name="ООО &quot;ПЛАНАР&quot;">
-    <Unit Name="Пряничников Александр Евгеньевич" Phone1="6101" Phone2="79020250069" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Расторгуева Марина Александровна" Phone1="1301" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Вадутова Мария Александровна" Phone1="1101" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Гак Евгений Сергеевич" Phone1="2050" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Кузнецов Владимир Николаевич" Phone1="1007" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Кулешов Виктор Борисович" Phone1="1201" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Алексеев Антон Сергеевич" Phone1="1711" Phone2="л - 79222329882" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Додонова Светлана Юрьевна" Phone1="2060" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Мотовилов Алексей Юрьевич" Phone1="2010" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Полилов Александр Сергеевич" Phone1="2030" Phone2="79020250078" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Свиридова Мария Дмитриевна" Phone1="2020" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ваганов Антон Владимирович" Phone1="1010" Phone2="79020282424" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Антропов Андрей Викторович" Phone1="5101" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Шведов Олег Александрович" Phone1="9003" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Берестов Вячеслав Викторович" Phone1="9001" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ершов Александр Анатольевич" Phone1="1008" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Конорев Андрей Юрьевич" Phone1="1003" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Руденко Алексей Николаевич" Phone1="1006" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Судомир Юрий Романович" Phone1="5503" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ефимов Денис Иванович" Phone1="5304" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Корепанов Михаил Юрьевич" Phone1="1011" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Мельник Алексей Владимирович" Phone1="5504" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Вагин Вадим Вячеславович" Phone1="9091" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Надайчик Николай Геннадьевич" Phone1="1601" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Надайчик Павел Геннадьевич" Phone1="6351" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Пряничникова Наталья Евгеньевна" Phone1="6102" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Пикулин Алексей Сергеевич" Phone1="6105" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Дротт Владимир Александрович" Phone1="6261" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Селезнёв Александр Васильевич" Phone1="6251" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Стаханов Анатолий Алексеевич" Phone1="6271" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Данилова Елена Валентиновна" Phone1="6390" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Худин Сергей Алексеевич" Phone1="6221" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Пожилов Игорь Викторович" Phone1="6241" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Тараданова Людмила Николаевна" Phone1="6381" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Кондрашов Владимир Иванович" Phone1="6601" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Шапошникова Татьяна Юрьевна" Phone1="6501" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Терехов Евгений Евгеньевич" Phone1="7700" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Тараданов Евгений Валерьевич" Phone1="6363" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Кропотов Дмитрий Владимирович" Phone1="6651" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Давыдов Евгений Владимирович" Phone1="6608" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Клименков Дмитрий Александрович" Phone1="6602" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Саратовцев Максим Сергеевич " Phone1="0" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Пудовкин Валерий Вячеславович" Phone1="1701" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Потеряев Дмитрий Иванович" Phone1="6701" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Колтунова Ирина Владимировна" Phone1="1004" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Каземиров Виталий Николаевич" Phone1="1401" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Мотовилова Наталья Николаевна" Phone1="2070" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Мещанова Галина Юрьевна" Phone1="5018" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Чирьев Максим Григорьевич" Phone1="5020" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ногина Лариса Александровна" Phone1="5011" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Иващенко Игорь Анатольевич" Phone1="5420" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Безбородов Александр Витальевич" Phone1="1015" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Сазонов Николай Иванович" Phone1="1005" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Митяев Андрей Николаевич" Phone1="5407" Phone2="79020250072" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Конорев Дмитрий Андреевич" Phone1="1002" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Емец Вадим Николаевич" Phone1="5102" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Матушкин Родион Андреевич" Phone1="5103" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Билалов Евгений Владимирович" Phone1="9002" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Митькин Михаил Федорович" Phone1="5021" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Сурнов Сергей Борисович" Phone1="5012" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Пометун Светлана Викторовна" Phone1="5019" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Комкина Анастасия Владимировна" Phone1="5017" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Карпенко Ольга Владимировна" Phone1="5016" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Заровнятных Алексей Александрович" Phone1="5015" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Быкова Наталья Петровна" Phone1="5014" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ахметшина Наталья Владимировна" Phone1="5013" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Рыжова Майя Анатольевна" Phone1="1012" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Участок зачистки" Phone1="6652" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Левина Юлия Брониславовна" Phone1="6652" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Заостровных Сергей Александрович" Phone1="1001" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Трякшина Юлия Геннадьевна" Phone1="3003" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Волгина Елена Леонидовна" Phone1="3004" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Тетельбаум Ольга Геннадьевна" Phone1="3006" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Сторожук Елена Геннадьевна" Phone1="3002" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Порошина Екатерина Александровна" Phone1="3005" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Мухаметшин Марат Габдуллович" Phone1="9101" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Алексеенко Юрий Валерьевич" Phone1="1702" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ершов Виктор Александрович" Phone1="5201" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Конев Антон Сергеевич" Phone1="5303" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ватропин Павел Александрович" Phone1="5404" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Грицук Игорь Анатольевич" Phone1="5405" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Шестаков Дмитрий Викторович" Phone1="5412" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Васильев Алексей Ринатович" Phone1="5403" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ломакин Константин Викторович" Phone1="5406" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Фаритов Фарит Рамилевич" Phone1="5409" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Хабин Владимир Александрович" Phone1="5410" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Чечель Егор Павлович" Phone1="5411" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Шефер Александр Олегович" Phone1="5413" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Щербинин Виктор Витальевич" Phone1="5414" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Конорева Надежда Владимировна" Phone1="5450" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Хакимова Лилия Закиржановна" Phone1="6515" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Павленко Ирина Юрьевна" Phone1="6362" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Малыхина Ирина Петровна" Phone1="6357" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Участок полимерно-порошковых покрытий" Phone1="6357" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Шумакова Елена Юрьевна" Phone1="1050" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Кениг Виолетта Андреевна" Phone1="1052" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Хиров Владимир Юрьевич" Phone1="6281" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Пургина Анна Васильевна" Phone1="6283" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Усманов Рабис Рауфович" Phone1="6244" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Гредина Валерия Алексеевна" Phone1="5080" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Романова Марина Дмитриевна" Phone1="5060" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ерофеев Иван Сергеевич" Phone1="5415" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Москвичева Наталья Викторовна" Phone1="6502" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Рыжов Владимир Игоревич" Phone1="1009" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Швецов Аркадий Владимирович" Phone1="6171" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Кузнецова Елена Александровна" Phone1="5081" Phone2="" Phone3="" default_photo="Resource:"/>
-  </Menu>
-  <Menu Name="ООО ПКФ &quot;Планар&quot;">
-    <Unit Name="Никулин Антон Анатольевич" Phone1="8101" Phone2="" Phone3="" default_photo="Resource:"/>
-  </Menu>
-  <Menu Name="НПК &quot;ТАИР&quot;">
-    <Unit Name="Синогин Максим Валерьевич" Phone1="8502" Phone2="" Phone3="" default_photo="Resource:"/>
-  </Menu>
-  <Menu Name="ООО &quot;Планар СПб&quot;">
-    <Unit Name="Сучков Евгений Сергеевич" Phone1="8201" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Хомутов Александр Сергеевич" Phone1="8210" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Тайчинова Олеся Андреевна" Phone1="8202" Phone2="" Phone3="" default_photo="Resource:"/>  
-  </Menu>
-  <Menu Name="ООО &quot;ПЛАНАР-Проект&quot;">
-    <Unit Name="Афанасьев Максим Валерьевич" Phone1="8001" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Ким Виктория Юрьевна" Phone1="8003" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Крылов Андрей Анатольевич" Phone1="8010" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Малявкин Андрей Андреевич" Phone1="8080" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Маскалева Валентина Евгеньевна" Phone1="8030" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Медведева Лилия Васильевна" Phone1="8040" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Никольский Маским Андреевич" Phone1="8081" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Суконкин Сергей Александрович" Phone1="8011" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Чехутский Василий Игоревич" Phone1="8002" Phone2="" Phone3="" default_photo="Resource:"/>
-    <Unit Name="Шияфитдинов Рамис Тахирович" Phone1="8082" Phone2="" Phone3="" default_photo="Resource:"/>
-  </Menu>
-</YealinkIPPhoneBook>
+<YealinkIPPhoneDirectory>
+	<DirectoryEntry>
+		<Name>Шияфитдинов Рамис Тахирович</Name>	
+		<Telephone>8082</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Чехутский Василий Игоревич</Name>
+		<Telephone>8002</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Суконкин Сергей Александрович</Name>
+		<Telephone>8011</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Никольский Маским Андреевич</Name>
+		<Telephone>8081</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Медведева Лилия Васильевна</Name>
+		<Telephone>8040</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Маскалева Валентина Евгеньевна</Name>
+		<Telephone>8030</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Малявкин Андрей Андреевич</Name>
+		<Telephone>8080</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Крылов Андрей Анатольевич</Name>
+		<Telephone>8010</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ким Виктория Юрьевна</Name>
+		<Telephone>8003</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Афанасьев Максим Валерьевич</Name>
+		<Telephone>8001</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Пудовкина Светлана Ивановна</Name>
+		<Telephone>8202</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Хомутов Александр Сергеевич</Name>
+		<Telephone>8210</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Сучков Евгений Сергеевич</Name>
+		<Telephone>8201</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Синогин Максим Валерьевич</Name>
+		<Telephone>8502</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Никулин Антон Анатольевич</Name>
+		<Telephone>8101</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Переговорная</Name>
+		<Telephone>7008</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Колесникова Анастасия Андреевна</Name>
+		<Telephone>6513</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кожина Татьяна Алексеевна</Name>
+		<Telephone>1102</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Алексеева Юлия Владимировна</Name>
+		<Telephone>6108</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Старикова Людмила Петровна</Name>
+		<Telephone>6127</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Прокопьев Игорь Александрович</Name>
+		<Telephone>7002</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Сантехники</Name>
+		<Telephone>7222</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Электрики</Name>
+		<Telephone>7111</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Леонтьева Светлана Владимировна</Name>
+		<Telephone>1555</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Охрана (Проходная)</Name>
+		<Telephone>7777</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Охрана (Малиновка)</Name>
+		<Telephone>7778</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кладовщик уч. Шелкографии</Name>
+		<Telephone>6126</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Архипова Надежда Александровна</Name>
+		<Telephone>6126</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кладовщик уч. Худина</Name>
+		<Telephone>6222</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Степанидина Эльмира Рашитовна</Name>
+		<Telephone>6222</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кладовщик уч. Стаханова</Name>
+		<Telephone>6279</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Дьяченко Юлия Валентиновна</Name>
+		<Telephone>6279</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кладовщик уч. Селезнева</Name>
+		<Telephone>6202</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мотовилова Юлия Аркадьевна</Name>
+		<Telephone>6202</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кладовщик слесарно-монажного уч.</Name>
+		<Telephone>6264</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мезина Анна Александровна</Name>
+		<Telephone>6264</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Медпункт</Name>
+		<Telephone>7707</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Касса</Name>
+		<Telephone>7333</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кормильцев Андрей Владимирович</Name>
+		<Telephone>6226</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Петров Виктор Юрьевич</Name>
+		<Telephone>6242</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Участок промывки</Name>
+		<Telephone>6106</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Егорова Валентина Юрьевна</Name>
+		<Telephone>6106</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кладовщик уч. SMD</Name>
+		<Telephone>6104</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Щербакова Бажена Галимжановна</Name>
+		<Telephone>6104</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кузнецова Елена Александровна</Name>
+		<Telephone>5081</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Швецов Аркадий Владимирович</Name>
+		<Telephone>6171</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Рыжов Владимир Игоревич</Name>
+		<Telephone>1009</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Москвичева Наталья Викторовна</Name>
+		<Telephone>6502</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ерофеев Иван Сергеевич</Name>
+		<Telephone>5415</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Романова Марина Дмитриевна</Name>
+		<Telephone>5060</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Гредина Валерия Алексеевна</Name>
+		<Telephone>5080</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Усманов Рабис Рауфович</Name>
+		<Telephone>6244</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Пургина Анна Васильевна</Name>
+		<Telephone>6283</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Хиров Владимир Юрьевич</Name>
+		<Telephone>6281</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Воронина Елизавета Вадимовна</Name>
+		<Telephone>1052</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Шумакова Елена Юрьевна</Name>
+		<Telephone>1050</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Участок полимерно-порошковых покрытий</Name>
+		<Telephone>6357</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Малыхина Ирина Петровна</Name>
+		<Telephone>6357</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Павленко Ирина Юрьевна</Name>
+		<Telephone>6362</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Хакимова Лилия Закиржановна</Name>
+		<Telephone>6515</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Конорева Надежда Владимировна</Name>
+		<Telephone>5450</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Щербинин Виктор Витальевич</Name>
+		<Telephone>5414</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Шефер Александр Олегович</Name>
+		<Telephone>5413</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Чечель Егор Павлович</Name>
+		<Telephone>5411</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Хабин Владимир Александрович</Name>
+		<Telephone>5410</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Фаритов Фарит Рамилевич</Name>
+		<Telephone>5409</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ломакин Константин Викторович</Name>
+		<Telephone>5406</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Васильев Алексей Ринатович</Name>
+		<Telephone>5403</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Шестаков Дмитрий Викторович</Name>
+		<Telephone>5412</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Грицук Игорь Анатольевич</Name>
+		<Telephone>5405</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ватропин Павел Александрович</Name>
+		<Telephone>5404</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Конев Антон Сергеевич</Name>
+		<Telephone>5303</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ершов Виктор Александрович</Name>
+		<Telephone>5201</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Алексеенко Юрий Валерьевич</Name>
+		<Telephone>1702</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мухаметшин Марат Габдуллович</Name>
+		<Telephone>9101</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Порошина Екатерина Александровна</Name>
+		<Telephone>3005</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Сторожук Елена Геннадьевна</Name>
+		<Telephone>3002</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Тетельбаум Ольга Геннадьевна</Name>
+		<Telephone>3006</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Волгина Елена Леонидовна</Name>
+		<Telephone>3004</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Трякшина Юлия Геннадьевна</Name>
+		<Telephone>3003</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Заостровных Сергей Александрович</Name>
+		<Telephone>1001</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Левина Юлия Брониславовна</Name>
+		<Telephone>6652</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Участок зачистки</Name>
+		<Telephone>6652</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Рыжова Майя Анатольевна</Name>
+		<Telephone>1012</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ахметшина Наталья Владимировна</Name>
+		<Telephone>5013</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Быкова Наталья Петровна</Name>
+		<Telephone>5014</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Заровнятных Алексей Александрович</Name>
+		<Telephone>5015</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Карпенко Ольга Владимировна</Name>
+		<Telephone>5016</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Комкина Анастасия Владимировна</Name>
+		<Telephone>5017</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Пометун Светлана Викторовна</Name>
+		<Telephone>5019</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Сурнов Сергей Борисович</Name>
+		<Telephone>5012</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Митькин Михаил Федорович</Name>
+		<Telephone>5021</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Билалов Евгений Владимирович</Name>
+		<Telephone>9002</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Матушкин Родион Андреевич</Name>
+		<Telephone>5103</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Емец Вадим Николаевич</Name>
+		<Telephone>5102</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Конорев Дмитрий Андреевич</Name>
+		<Telephone>1002</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Митяев Андрей Николаевич</Name>
+		<Telephone>5407</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Сазонов Николай Иванович</Name>
+		<Telephone>1005</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Безбородов Александр Витальевич</Name>
+		<Telephone>1015</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Иващенко Игорь Анатольевич</Name>
+		<Telephone>5420</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ногина Лариса Александровна</Name>
+		<Telephone>5011</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Чирьев Максим Григорьевич</Name>
+		<Telephone>5020</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мещанова Галина Юрьевна</Name>
+		<Telephone>5018</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мотовилова Наталья Николаевна</Name>
+		<Telephone>2070</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Каземиров Виталий Николаевич</Name>
+		<Telephone>1401</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Колтунова Ирина Владимировна</Name>
+		<Telephone>1004</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Потеряев Дмитрий Иванович</Name>
+		<Telephone>6701</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Пудовкин Валерий Вячеславович</Name>
+		<Telephone>1701</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Саратовцев Максим Сергеевич</Name>
+		<Telephone>6725</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Клименков Дмитрий Александрович</Name>
+		<Telephone>6602</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Давыдов Евгений Владимирович</Name>
+		<Telephone>6608</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кропотов Дмитрий Владимирович</Name>
+		<Telephone>6651</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Тараданов Евгений Валерьевич</Name>
+		<Telephone>6363</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Терехов Евгений Евгеньевич</Name>
+		<Telephone>7700</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Шапошникова Татьяна Юрьевна</Name>
+		<Telephone>6501</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кондрашов Владимир Иванович</Name>
+		<Telephone>6601</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Тараданова Людмила Николаевна</Name>
+		<Telephone>6381</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Пожилов Игорь Викторович</Name>
+		<Telephone>6241</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Худин Сергей Алексеевич</Name>
+		<Telephone>6221</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Данилова Елена Валентиновна</Name>
+		<Telephone>6390</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Стаханов Анатолий Алексеевич</Name>
+		<Telephone>6271</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Селезнёв Александр Васильевич</Name>
+		<Telephone>6251</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Дротт Владимир Александрович</Name>
+		<Telephone>6261</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Пикулин Алексей Сергеевич</Name>
+		<Telephone>6105</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Пряничникова Наталья Евгеньевна</Name>
+		<Telephone>6102</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Надайчик Павел Геннадьевич</Name>
+		<Telephone>6351</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Надайчик Николай Геннадьевич</Name>
+		<Telephone>1601</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Вагин Вадим Вячеславович</Name>
+		<Telephone>9091</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мельник Алексей Владимирович</Name>
+		<Telephone>5504</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Корепанов Михаил Юрьевич</Name>
+		<Telephone>1011</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ефимов Денис Иванович</Name>
+		<Telephone>5304</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Судомир Юрий Романович</Name>
+		<Telephone>5503</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Руденко Алексей Николаевич</Name>
+		<Telephone>1006</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Конорев Андрей Юрьевич</Name>
+		<Telephone>1003</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ершов Александр Анатольевич</Name>
+		<Telephone>1008</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Берестов Вячеслав Викторович</Name>
+		<Telephone>9001</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Шведов Олег Александрович</Name>
+		<Telephone>9003</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Антропов Андрей Викторович</Name>
+		<Telephone>5101</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Ваганов Антон Владимирович</Name>
+		<Telephone>1010</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Свиридова Мария Дмитриевна</Name>
+		<Telephone>2020</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Полилов Александр Сергеевич</Name>
+		<Telephone>2030</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мотовилов Алексей Юрьевич</Name>
+		<Telephone>2010</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Додонова Светлана Юрьевна</Name>
+		<Telephone>2060</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Алексеев Антон Сергеевич</Name>
+		<Telephone>1711</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кулешов Виктор Борисович</Name>
+		<Telephone>1201</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кузнецов Владимир Николаевич</Name>
+		<Telephone>1007</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Гак Евгений Сергеевич</Name>
+		<Telephone>2050</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Вадутова Мария Александровна</Name>
+		<Telephone>1101</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Расторгуева Марина Александровна</Name>
+		<Telephone>1301</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Пряничников Александр Евгеньевич</Name>
+		<Telephone>6101</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Гуржий Сергей Викторович</Name>
+		<Telephone>6705</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Тюрин Андрей Вадимович</Name>
+		<Telephone>5104</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Лаборатория Безбородова</Name>
+		<Telephone>1115</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Докучаев Борис Николаевич</Name>
+		<Telephone>6609</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Стаханов Алексей Анатольевич</Name>
+		<Telephone>5507</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Овчинников Александр Юрьевич</Name>
+		<Telephone>5506</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Рудаков Михаил Павлович</Name>
+		<Telephone>5305</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Хлюстов Евгений Валентинович</Name>
+		<Telephone>5306</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Назарова Наталья Анатольевна</Name>
+		<Telephone>6505</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Габитов Александр Фаритович</Name>
+		<Telephone>5307</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кичуткин Евгений Николаевич</Name>
+		<Telephone>6203</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Трунин Андрей Михайлович</Name>
+		<Telephone>5509</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Сычев Александр Владимирович</Name>
+		<Telephone>5208</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мельник Вадим Алексеевич</Name>
+		<Telephone>5505</Telephone>
+	</DirectoryEntry>
+
+	<DirectoryEntry>
+		<Name>Сидорова Любовь Ивановна</Name>
+		<Telephone>6130</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Галкин Дмитрий Андреевич</Name>
+		<Telephone>6112</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Агапова Алла Юрьевна</Name>
+		<Telephone>6353</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Коновалов Евгений Петрович</Name>
+		<Telephone>6355</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Столовая</Name>
+		<Telephone>7701</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Павлов Вадим Алексеевич</Name>
+		<Telephone>5408</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Маммедмырадов Максат Агамырадович</Name>
+		<Telephone>5023</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Участок массового производства</Name>
+		<Telephone>6305</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Андреева Екатерина Александровна</Name>
+		<Telephone>5215</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Кутепов Дмитрий Александрович</Name>
+		<Telephone>5552</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Судомир Денис Юрьевич</Name>
+		<Telephone>5508</Telephone>
+	</DirectoryEntry>
+
+</YealinkIPPhoneDirectory>
