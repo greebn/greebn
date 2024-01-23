@@ -368,7 +368,7 @@
 		<Telephone>5021</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Билалов Евгений Владимирович</Name>
+		<Name>Голубаев Егор Викторович</Name>
 		<Telephone>9002</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -544,7 +544,7 @@
 		<Telephone>9001</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Шведов Олег Александрович</Name>
+		<Name>Бакаев Егор Михайлович</Name>
 		<Telephone>9003</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -710,7 +710,27 @@
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>Анищенко Алексей Викторович</Name>
-		<Telephone>9004</Telephone>
+		<Telephone>9011</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Шведов Олег Александрович</Name>
+		<Telephone>9010</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мингазов Дмитрий Вадимович</Name>
+		<Telephone>6720</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Богатенков Иван Сергеевич</Name>
+		<Telephone>6131</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Шарафутдинов Ильяс Низамович</Name>
+		<Telephone>7223</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Мурашкина Екатерина Андреевна</Name>
+		<Telephone>8801</Telephone>
 	</DirectoryEntry>
 
 </YealinkIPPhoneDirectory>
