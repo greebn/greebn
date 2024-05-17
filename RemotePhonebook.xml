@@ -732,5 +732,43 @@
 		<Name>Мурашкина Екатерина Андреевна</Name>
 		<Telephone>8801</Telephone>
 	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Хоменко Любовь Александровна</Name>
+		<Telephone>5416</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Зорин Алексей Леонидович</Name>
+		<Telephone>5451</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Зисман Александр Григорьевич</Name>
+		<Telephone>5452</Telephone>
+	</DirectoryEntry>
+      	<DirectoryEntry>
+		<Name>Родионова Анжелика Евгеньевна</Name>
+		<Telephone>8104</Telephone>
+	</DirectoryEntry>
+      	<DirectoryEntry>
+		<Name>Юферов Владимир Юрьевич</Name>
+		<Telephone>5417</Telephone>
+	</DirectoryEntry>
+      	<DirectoryEntry>
+		<Name>Усирков Александр Вячеславович</Name>
+		<Telephone>6735</Telephone>
+	</DirectoryEntry>
+      	<DirectoryEntry>
+		<Name>Сгибнев Александр Сергеевич</Name>
+		<Telephone>5209</Telephone>
+	</DirectoryEntry>
+      	<DirectoryEntry>
+		<Name>Горшков Иван Эдуардович</Name>
+		<Telephone>5205</Telephone>
+	</DirectoryEntry>
+      	<DirectoryEntry>
+		<Name>Кожина Татьяна Алексеевна</Name>
+		<Telephone>8103</Telephone>
+	</DirectoryEntry>
+
+
 
 </YealinkIPPhoneDirectory>
