@@ -68,11 +68,11 @@
 		<Telephone>6513</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Кожина Татьяна Алексеевна</Name>
+		<Name>Базелюк Надежда Владимировна</Name>
 		<Telephone>1102</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Алексеева Юлия Владимировна</Name>
+		<Name>Прошкина Юлия Владимировна</Name>
 		<Telephone>6108</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -272,10 +272,6 @@
 		<Telephone>5403</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Шестаков Дмитрий Викторович</Name>
-		<Telephone>5412</Telephone>
-	</DirectoryEntry>
-	<DirectoryEntry>
 		<Name>Грицук Игорь Анатольевич</Name>
 		<Telephone>5405</Telephone>
 	</DirectoryEntry>
@@ -324,7 +320,7 @@
 		<Telephone>1001</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Левина Юлия Брониславовна</Name>
+		<Name>Резанова Ольга Александровна</Name>
 		<Telephone>6652</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -376,7 +372,7 @@
 		<Telephone>5103</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Емец Вадим Николаевич</Name>
+		<Name>Лущиков Всеволод Владимирович</Name>
 		<Telephone>5102</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -540,10 +536,6 @@
 		<Telephone>1008</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Берестов Вячеслав Викторович</Name>
-		<Telephone>9001</Telephone>
-	</DirectoryEntry>
-	<DirectoryEntry>
 		<Name>Бакаев Егор Михайлович</Name>
 		<Telephone>9003</Telephone>
 	</DirectoryEntry>
@@ -604,7 +596,7 @@
 		<Telephone>6705</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Тюрин Андрей Вадимович</Name>
+		<Name>Гончар Артём Сергеевич</Name>
 		<Telephone>5104</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -689,7 +681,7 @@
 		<Telephone>6305</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Андреева Екатерина Александровна</Name>
+		<Name>Плюхин Константин Дмитриевич</Name>
 		<Telephone>5215</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -701,7 +693,7 @@
 		<Telephone>5508</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Добрынин Александр Владимирович</Name>
+		<Name>Яланский Вячеслав Юрьевич</Name>
 		<Telephone>7003</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -711,10 +703,6 @@
 	<DirectoryEntry>
 		<Name>Анищенко Алексей Викторович</Name>
 		<Telephone>9011</Telephone>
-	</DirectoryEntry>
-	<DirectoryEntry>
-		<Name>Шведов Олег Александрович</Name>
-		<Telephone>9010</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
 		<Name>Мингазов Дмитрий Вадимович</Name>
@@ -768,7 +756,84 @@
 		<Name>Кожина Татьяна Алексеевна</Name>
 		<Telephone>8103</Telephone>
 	</DirectoryEntry>
+      	<DirectoryEntry>
+		<Name>Абдулин Вагиз Филоритович</Name>
+		<Telephone>5308</Telephone>
+	</DirectoryEntry>
+        <DirectoryEntry>
+		<Name>Перфилов Александр Сергеевич</Name>
+		<Telephone>1712</Telephone>
+	</DirectoryEntry>
+        <DirectoryEntry>
+		<Name>Рудных Валерия Вадимовна</Name>
+		<Telephone>8401</Telephone>
+	</DirectoryEntry>
+	    <DirectoryEntry>
+		<Name>Агафонов Александр Анатольевич</Name>
+		<Telephone>8501</Telephone>
+	</DirectoryEntry>
+        <DirectoryEntry>
+		<Name>Машков Вадим Олегович</Name>
+		<Telephone>8503</Telephone>
+	</DirectoryEntry>
+        <DirectoryEntry>
+		<Name>Частухина Татьяна Рафаковна</Name>
+		<Telephone>5082</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Черкащенко Глеб Владимирович</Name>
+		<Telephone>6243</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Михайловский Андрей Викторович</Name>
+		<Telephone>5206</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Шведов Олег Александрович</Name>
+		<Telephone>9001</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Овечкин Максим Андреевич</Name>
+		<Telephone>6132</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Никитин Николай Сергеевич</Name>
+		<Telephone>5309</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Следнев Иван Сергеевич</Name>
+		<Telephone>5412</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Влазнева Марианна Алексеевна</Name>
+		<Telephone>5212</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Лындин Александр Александрович</Name>
+		<Telephone>5207</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Курочкин Глеб Денисович</Name>
+		<Telephone>5204</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Усков Андрей Витальевич</Name>
+		<Telephone>9004</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Электрики (Малиновка)</Name>
+		<Telephone>7112</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Селиванова Алёна Сергеевна</Name>
+		<Telephone>1013</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Дубовицкая Елена Александровна</Name>
+		<Telephone>6517</Telephone>
+	</DirectoryEntry>
 
 
 
+               
 </YealinkIPPhoneDirectory>
