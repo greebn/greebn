@@ -280,10 +280,6 @@
 		<Telephone>5404</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Конев Антон Сергеевич</Name>
-		<Telephone>5303</Telephone>
-	</DirectoryEntry>
-	<DirectoryEntry>
 		<Name>Ершов Виктор Александрович</Name>
 		<Telephone>5201</Telephone>
 	</DirectoryEntry>
@@ -364,10 +360,6 @@
 		<Telephone>5021</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Голубаев Егор Викторович</Name>
-		<Telephone>9002</Telephone>
-	</DirectoryEntry>
-	<DirectoryEntry>
 		<Name>Матушкин Родион Андреевич</Name>
 		<Telephone>5103</Telephone>
 	</DirectoryEntry>
@@ -436,7 +428,7 @@
 		<Telephone>6602</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
-		<Name>Давыдов Евгений Владимирович</Name>
+		<Name>Маркелов Александр Евгеньевич</Name>
 		<Telephone>6608</Telephone>
 	</DirectoryEntry>
 	<DirectoryEntry>
@@ -765,7 +757,7 @@
 		<Telephone>1712</Telephone>
 	</DirectoryEntry>
         <DirectoryEntry>
-		<Name>Рудных Валерия Вадимовна</Name>
+		<Name>Новикова Анастасия Владимировна</Name>
 		<Telephone>8401</Telephone>
 	</DirectoryEntry>
 	    <DirectoryEntry>
@@ -832,7 +824,26 @@
 		<Name>Дубовицкая Елена Александровна</Name>
 		<Telephone>6517</Telephone>
 	</DirectoryEntry>
-
+	<DirectoryEntry>
+		<Name>Мухаметзянова Ульяна Руслановна</Name>
+		<Telephone>5022</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Глухарев Данила Витальевич</Name>
+		<Telephone>5024</Telephone>
+	</DirectoryEntry>
+        <DirectoryEntry>
+		<Name>Кокоулин Александр Юрьевич</Name>
+		<Telephone>9005</Telephone>
+	</DirectoryEntry>
+        <DirectoryEntry>
+		<Name>Шаймарданов Руслан Тимурович</Name>
+		<Telephone>5453</Telephone>
+	</DirectoryEntry>
+        <DirectoryEntry>
+		<Name>Кирдин Александр Викторович</Name>
+		<Telephone>9006</Telephone>
+	</DirectoryEntry>
 
 
                
